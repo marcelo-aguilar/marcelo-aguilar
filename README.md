@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Marcelo Aguilar 👋
+# Hello, i am Marcelo Aguilar 👋
 
-**Estudante de Engenharia de Software** · Desenvolvimento Web · Dados · Cibersegurança
+**software engineer** · Full-Stack Development · AI - Data Analysis e Machine Learning · cybersecurity
 
 <a href="https://www.linkedin.com/in/marcelo-aguilar-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <!-- Descomente e preencha os links abaixo:
@@ -14,9 +14,15 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  About me
 
-Sou estudante de Engenharia de Software e gosto de entender como as coisas funcionam por dentro — do código ao sistema operacional.
+I’m a Software Engineering student at Inteli, driven by curiosity and a genuine interest in understanding how technology works and how it can be used to create meaningful solutions.
+
+For me, programming is more than writing code. It is a way of thinking, exploring ideas, solving problems, and turning concepts into something tangible. I enjoy the process of breaking down complex problems, experimenting with different approaches, learning from mistakes, and continuously improving what I build.
+
+I’m deeply interested in the world of technology and the possibilities it creates. I enjoy exploring different areas of tech, understanding how they connect, and discovering new ways to apply technology to real-world problems. I’m still exploring the paths I want to follow, and I see that process of exploration as an important part of becoming a well-rounded professional.
+
+I believe that technology is constantly evolving, and so should we. That’s why I value curiosity, adaptability, creativity, and continuous learning. I want to build things that challenge me, learn from the people around me, and grow through every project and experience.
 
 - Interesse em **desenvolvimento de software**, **dados** e **cibersegurança**
 - Aprendendo continuamente novas tecnologias e colocando em prática por meio de projetos
@@ -24,7 +30,7 @@ Sou estudante de Engenharia de Software e gosto de entender como as coisas funci
 
 ---
 
-## 🛠️ Tecnologias
+##  Technologies
 
 <div align="center">
 
