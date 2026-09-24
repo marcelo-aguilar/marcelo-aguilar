@@ -40,35 +40,6 @@ I believe that technology is constantly evolving, and so should we. That’s why
 
 ---
 
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo do perfil" width="100%"/>
-
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" height="170"/>
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais usadas" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=marcelo-aguilar&hide_border=true&theme=github-dark-blue&disable_animations=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-| :-- | :-- | :-- |
-| [**site-barbearia-X**](https://github.com/marcelo-aguilar/site-barbearia-X) | Site que desenvolvi para a minha própria barbearia. | JavaScript |
-
-<!-- Adicione novos projetos seguindo o modelo:
-| [**NOME DO PROJETO**](LINK DO REPOSITÓRIO) | Breve descrição do projeto | Tecnologias |
--->
-
----
-
-## 📫 Contato
-
 <div align="center">
 
 Aberto a conversas sobre tecnologia, estágios e projetos.
