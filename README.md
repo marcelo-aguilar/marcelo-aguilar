@@ -49,7 +49,7 @@ I believe that technology is constantly evolving, and so should we. That’s why
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" height="170"/>
 <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais usadas" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=0lecr4m&hide_border=true&theme=github-dark-blue&disable_animations=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=marcelo-aguilar&hide_border=true&theme=github-dark-blue&disable_animations=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -59,7 +59,7 @@ I believe that technology is constantly evolving, and so should we. That’s why
 
 | Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
-| [**site-barbearia-X**](https://github.com/0lecr4m/site-barbearia-X) | Site que desenvolvi para a minha própria barbearia. | JavaScript |
+| [**site-barbearia-X**](https://github.com/marcelo-aguilar/site-barbearia-X) | Site que desenvolvi para a minha própria barbearia. | JavaScript |
 
 <!-- Adicione novos projetos seguindo o modelo:
 | [**NOME DO PROJETO**](LINK DO REPOSITÓRIO) | Breve descrição do projeto | Tecnologias |
@@ -74,7 +74,7 @@ I believe that technology is constantly evolving, and so should we. That’s why
 Aberto a conversas sobre tecnologia, estágios e projetos.
 
 <a href="https://www.linkedin.com/in/marcelo-aguilar-">LinkedIn</a> ·
-<a href="https://github.com/0lecr4m">GitHub</a>
+<a href="https://github.com/marcelo-aguilar">GitHub</a>
 <!-- · <a href="mailto:[SEU EMAIL]">Email</a> · <a href="[LINK DO PORTFÓLIO]">Portfólio</a> -->
 
 </div>
