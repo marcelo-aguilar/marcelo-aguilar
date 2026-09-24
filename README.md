@@ -4,8 +4,8 @@
 
 **Estudante de Engenharia de Software** · Desenvolvimento Web · Dados · Cibersegurança
 
+<a href="https://www.linkedin.com/in/marcelo-aguilar-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <!-- Descomente e preencha os links abaixo:
-<a href="[LINK DO LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:[SEU EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="[LINK DO PORTFÓLIO]"><img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"/></a>
 -->
@@ -41,9 +41,9 @@ Sou estudante de Engenharia de Software e gosto de entender como as coisas funci
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo do perfil" width="100%"/>
 
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" height="170"/>
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas" height="170"/>
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais usadas" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=0lecr4m&hide_border=true&theme=github-dark-blue" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=0lecr4m&hide_border=true&theme=github-dark-blue&disable_animations=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -67,7 +67,8 @@ Sou estudante de Engenharia de Software e gosto de entender como as coisas funci
 
 Aberto a conversas sobre tecnologia, estágios e projetos.
 
+<a href="https://www.linkedin.com/in/marcelo-aguilar-">LinkedIn</a> ·
 <a href="https://github.com/0lecr4m">GitHub</a>
-<!-- · <a href="[LINK DO LINKEDIN]">LinkedIn</a> · <a href="mailto:[SEU EMAIL]">Email</a> · <a href="[LINK DO PORTFÓLIO]">Portfólio</a> -->
+<!-- · <a href="mailto:[SEU EMAIL]">Email</a> · <a href="[LINK DO PORTFÓLIO]">Portfólio</a> -->
 
 </div>
