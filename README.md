@@ -24,10 +24,6 @@ I’m deeply interested in the world of technology and the possibilities it crea
 
 I believe that technology is constantly evolving, and so should we. That’s why I value curiosity, adaptability, creativity, and continuous learning. I want to build things that challenge me, learn from the people around me, and grow through every project and experience.
 
-- Interesse em **desenvolvimento de software**, **dados** e **cibersegurança**
-- Aprendendo continuamente novas tecnologias e colocando em prática por meio de projetos
-- Construindo meu portfólio com projetos reais, como o site da minha própria barbearia
-
 ---
 
 ##  Technologies
