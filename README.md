@@ -47,7 +47,7 @@ I believe that technology is constantly evolving, and so should we. That’s why
 <td width="40%" align="center" valign="middle">
 
 <!-- Troque o src abaixo pela sua imagem (ex.: ./assets/me.gif ou um link externo) -->
-<img src="./assets/eu-apresentando-pitch.png" alt="Minha imagem" width="100%"/>
+<!-- <img src="./assets/eu-apresentando-pitch.png" alt="Minha imagem" width="100%"/> -->
 
 </td>
 </tr>
@@ -83,8 +83,7 @@ I believe that technology is constantly evolving, and so should we. That’s why
 
 Aberto a conversas sobre tecnologia, estágios e projetos.
 
-<a href="https://www.linkedin.com/in/marcelo-aguilar-">LinkedIn</a> ·
-<a href="https://github.com/marcelo-aguilar">GitHub</a>
+
 <!-- · <a href="mailto:[SEU EMAIL]">Email</a> · <a href="[LINK DO PORTFÓLIO]">Portfólio</a> -->
 
 </div>
