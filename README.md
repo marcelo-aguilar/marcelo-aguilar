@@ -47,7 +47,7 @@ I believe that technology is constantly evolving, and so should we. That’s why
 <td width="40%" align="center" valign="middle">
 
 <!-- Troque o src abaixo pela sua imagem (ex.: ./assets/me.gif ou um link externo) -->
-<img src="https://placehold.co/300x300/0d1117/58a6ff?text=Sua+Imagem" alt="Minha imagem" width="100%"/>
+<img src="./assets/eu-apresentando-pitch.png" alt="Minha imagem" width="100%"/>
 
 </td>
 </tr>
