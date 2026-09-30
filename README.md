@@ -24,13 +24,56 @@ I’m deeply interested in the world of technology and the possibilities it crea
 
 I believe that technology is constantly evolving, and so should we. That’s why I value curiosity, adaptability, creativity, and continuous learning. I want to build things that challenge me, learn from the people around me, and grow through every project and experience.
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```json
+{
+  "name": "Marcelo Aguilar",
+  "role": "Software Engineering Student",
+  "university": "Inteli",
+  "location": "[CIDADE, PAÍS]",
+  "currentlyLearning": ["[TECNOLOGIA 1]", "[TECNOLOGIA 2]"],
+  "currentlyWorkingOn": "[PROJETO ATUAL]",
+  "interests": ["Full-Stack", "AI & Machine Learning", "Cybersecurity"],
+  "languages": ["Portuguese", "English"],
+  "funFact": "[CURIOSIDADE SOBRE VOCÊ]",
+  "contact": "[SEU EMAIL]"
+}
+```
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<!-- Troque o src abaixo pela sua imagem (ex.: ./assets/me.gif ou um link externo) -->
+<img src="https://placehold.co/300x300/0d1117/58a6ff?text=Sua+Imagem" alt="Minha imagem" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ##  Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,linux,git&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Python, Linux, Git"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,py,mongodb,mysql,postgres,supabase,firebase,bash,linux,npm,git,github,gitlab,vercel,postman,vscode,figma&perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Python, MongoDB, MySQL, PostgreSQL, Supabase, Firebase, Shell/Bash, Linux, npm, Git, GitHub, GitLab, Vercel, Postman, VS Code, Figma"/>
+
+</div>
+
+---
+
+##  GitHub Analytics
+
+<div align="center">
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Commits graph" width="100%"/>
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats: stars, commits, PRs, issues" height="200"/>
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" height="200"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" height="200"/>
 
 </div>
 
