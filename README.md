@@ -24,36 +24,7 @@ I’m deeply interested in the world of technology and the possibilities it crea
 
 I believe that technology is constantly evolving, and so should we. That’s why I value curiosity, adaptability, creativity, and continuous learning. I want to build things that challenge me, learn from the people around me, and grow through every project and experience.
 
-<table>
-<tr>
-<td width="60%" valign="top">
 
-```json
-{
-  "name": "Marcelo Aguilar",
-  "role": "Software Engineering Student",
-  "university": "Inteli",
-  "location": "[CIDADE, PAÍS]",
-  "currentlyLearning": ["[TECNOLOGIA 1]", "[TECNOLOGIA 2]"],
-  "currentlyWorkingOn": "[PROJETO ATUAL]",
-  "interests": ["Full-Stack", "AI & Machine Learning", "Cybersecurity"],
-  "languages": ["Portuguese", "English"],
-  "funFact": "[CURIOSIDADE SOBRE VOCÊ]",
-  "contact": "[SEU EMAIL]"
-}
-```
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<!-- Troque o src abaixo pela sua imagem (ex.: ./assets/me.gif ou um link externo) -->
-<!-- <img src="./assets/eu-apresentando-pitch.png" alt="Minha imagem" width="100%"/> -->
-
-</td>
-</tr>
-</table>
-
----
 
 ##  Technologies
 
