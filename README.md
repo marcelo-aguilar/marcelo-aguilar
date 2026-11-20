@@ -31,7 +31,7 @@ I believe that technology is constantly evolving, and so should we. That’s why
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,py,C,C++,mongodb,mysql,postgres,supabase,firebase,bash,linux,npm,git,github,gitlab,vercel,postman,vscode,figma&perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Python, MongoDB, MySQL, PostgreSQL, Supabase, Firebase, Shell/Bash, Linux, npm, Git, GitHub, GitLab, Vercel, Postman, VS Code, Figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,py,c,c++,mongodb,mysql,postgres,supabase,firebase,bash,linux,npm,git,github,gitlab,vercel,postman,vscode,figma&perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Python, MongoDB, MySQL, PostgreSQL, Supabase, Firebase, Shell/Bash, Linux, npm, Git, GitHub, GitLab, Vercel, Postman, VS Code, Figma"/>
 
 </div>
 
