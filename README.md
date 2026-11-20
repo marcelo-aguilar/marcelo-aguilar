@@ -5,6 +5,7 @@
 **software engineer** · Full-Stack Development · AI - Data Analysis e Machine Learning · cybersecurity
 
 <a href="https://www.linkedin.com/in/marcelo-aguilar-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://portifolio-pessoal-kohl.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portifolio"/></a>
 <!-- Descomente e preencha os links abaixo:
 <a href="mailto:[SEU EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="[LINK DO PORTFÓLIO]"><img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"/></a>
