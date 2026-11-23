@@ -63,8 +63,13 @@ On my own time I built a [3D portfolio](https://github.com/marcelo-aguilar/Porti
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,supabase,firebase" alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Supabase, Firebase"/></td>
   </tr>
   <tr>
-    <td><b>Data and ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numPy,jupyter" alt="Python, scikit-learn, Pandas,NumPy,Jupyter" align="middle"/>&nbsp;</td>
+ <td><b>Data and ML</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=py,sklearn" alt="Python, scikit-learn" height="48" align="middle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" align="middle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" align="middle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" align="middle"/>
+</td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
