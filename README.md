@@ -64,7 +64,7 @@ On my own time I built a [3D portfolio](https://github.com/marcelo-aguilar/Porti
   </tr>
   <tr>
     <td><b>Data and ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,sklearn" alt="Python, scikit-learn" align="middle"/>&nbsp; Pandas, NumPy, Jupyter</td>
+    <td><img src="https://skillicons.dev/icons?i=py,sklearn" alt="Python, scikit-learn, Pandas,NumPy,Jupyter" align="middle"/>&nbsp;</td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
